@@ -1,4 +1,5 @@
-<img width="895" height="1100" alt="image" src="https://github.com/user-attachments/assets/25fdfaab-d5f8-4a65-95e4-915c989d72b3" />## Задание 2
+## Задание 2
+<img width="895" height="1100" alt="image" src="https://github.com/user-attachments/assets/25fdfaab-d5f8-4a65-95e4-915c989d72b3" />
 Пишем код для серверной части
 <img width="895" height="1100" alt="image" src="https://github.com/user-attachments/assets/374bdbd6-db24-4482-b1dd-923bdd9f643d" />
 Теперь код для клиента
